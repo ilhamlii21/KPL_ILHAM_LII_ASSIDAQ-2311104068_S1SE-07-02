@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\Moodul3\Moodul3\bin\Debug\Moodul3.exe.config
+C:\Users\ASUS\source\repos\Moodul3\Moodul3\bin\Debug\Moodul3.exe
+C:\Users\ASUS\source\repos\Moodul3\Moodul3\bin\Debug\Moodul3.pdb
+C:\Users\ASUS\source\repos\Moodul3\Moodul3\obj\Debug\Moodul3.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Moodul3\Moodul3\obj\Debug\Moodul3.Form1.resources
+C:\Users\ASUS\source\repos\Moodul3\Moodul3\obj\Debug\Moodul3.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Moodul3\Moodul3\obj\Debug\Moodul3.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Moodul3\Moodul3\obj\Debug\Moodul3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Moodul3\Moodul3\obj\Debug\Moodul3.exe
+C:\Users\ASUS\source\repos\Moodul3\Moodul3\obj\Debug\Moodul3.pdb
