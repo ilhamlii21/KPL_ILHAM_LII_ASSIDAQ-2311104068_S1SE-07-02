@@ -1,0 +1,4 @@
+C:\Users\ASUS\source\repos\JMMODUL6\JMMODUL6\obj\Debug\net6.0\JMMODUL6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\JMMODUL6\JMMODUL6\obj\Debug\net6.0\JMMODUL6.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\JMMODUL6\JMMODUL6\obj\Debug\net6.0\JMMODUL6.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\JMMODUL6\JMMODUL6\obj\Debug\net6.0\JMMODUL6.csproj.CoreCompileInputs.cache
