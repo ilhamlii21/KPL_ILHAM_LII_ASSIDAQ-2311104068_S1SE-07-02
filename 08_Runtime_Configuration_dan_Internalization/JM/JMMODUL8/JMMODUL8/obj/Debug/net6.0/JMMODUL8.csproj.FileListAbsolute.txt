@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\JMMODUL8\JMMODUL8\bin\Debug\net6.0\JMMODUL8.exe
+C:\Users\ASUS\source\repos\JMMODUL8\JMMODUL8\bin\Debug\net6.0\JMMODUL8.deps.json
+C:\Users\ASUS\source\repos\JMMODUL8\JMMODUL8\bin\Debug\net6.0\JMMODUL8.runtimeconfig.json
+C:\Users\ASUS\source\repos\JMMODUL8\JMMODUL8\bin\Debug\net6.0\JMMODUL8.dll
+C:\Users\ASUS\source\repos\JMMODUL8\JMMODUL8\bin\Debug\net6.0\JMMODUL8.pdb
+C:\Users\ASUS\source\repos\JMMODUL8\JMMODUL8\obj\Debug\net6.0\JMMODUL8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\JMMODUL8\JMMODUL8\obj\Debug\net6.0\JMMODUL8.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\JMMODUL8\JMMODUL8\obj\Debug\net6.0\JMMODUL8.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\JMMODUL8\JMMODUL8\obj\Debug\net6.0\JMMODUL8.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\JMMODUL8\JMMODUL8\obj\Debug\net6.0\JMMODUL8.dll
+C:\Users\ASUS\source\repos\JMMODUL8\JMMODUL8\obj\Debug\net6.0\refint\JMMODUL8.dll
+C:\Users\ASUS\source\repos\JMMODUL8\JMMODUL8\obj\Debug\net6.0\JMMODUL8.pdb
+C:\Users\ASUS\source\repos\JMMODUL8\JMMODUL8\obj\Debug\net6.0\JMMODUL8.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\JMMODUL8\JMMODUL8\obj\Debug\net6.0\ref\JMMODUL8.dll
