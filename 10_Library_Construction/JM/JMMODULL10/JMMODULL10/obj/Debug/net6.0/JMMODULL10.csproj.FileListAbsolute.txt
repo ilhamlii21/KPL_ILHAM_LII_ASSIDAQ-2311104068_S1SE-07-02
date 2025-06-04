@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\JMMODULL10\JMMODULL10\bin\Debug\net6.0\JMMODULL10.exe
+C:\Users\ASUS\source\repos\JMMODULL10\JMMODULL10\bin\Debug\net6.0\JMMODULL10.deps.json
+C:\Users\ASUS\source\repos\JMMODULL10\JMMODULL10\bin\Debug\net6.0\JMMODULL10.runtimeconfig.json
+C:\Users\ASUS\source\repos\JMMODULL10\JMMODULL10\bin\Debug\net6.0\JMMODULL10.dll
+C:\Users\ASUS\source\repos\JMMODULL10\JMMODULL10\bin\Debug\net6.0\JMMODULL10.pdb
+C:\Users\ASUS\source\repos\JMMODULL10\JMMODULL10\obj\Debug\net6.0\JMMODULL10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\JMMODULL10\JMMODULL10\obj\Debug\net6.0\JMMODULL10.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\JMMODULL10\JMMODULL10\obj\Debug\net6.0\JMMODULL10.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\JMMODULL10\JMMODULL10\obj\Debug\net6.0\JMMODULL10.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\JMMODULL10\JMMODULL10\obj\Debug\net6.0\JMMODULL10.dll
+C:\Users\ASUS\source\repos\JMMODULL10\JMMODULL10\obj\Debug\net6.0\refint\JMMODULL10.dll
+C:\Users\ASUS\source\repos\JMMODULL10\JMMODULL10\obj\Debug\net6.0\JMMODULL10.pdb
+C:\Users\ASUS\source\repos\JMMODULL10\JMMODULL10\obj\Debug\net6.0\JMMODULL10.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\JMMODULL10\JMMODULL10\obj\Debug\net6.0\ref\JMMODULL10.dll
