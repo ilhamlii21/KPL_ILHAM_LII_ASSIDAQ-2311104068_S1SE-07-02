@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\TPMODUL7\TPMODUL7\bin\Debug\net6.0\TPMODUL7.exe
+C:\Users\ASUS\source\repos\TPMODUL7\TPMODUL7\bin\Debug\net6.0\TPMODUL7.deps.json
+C:\Users\ASUS\source\repos\TPMODUL7\TPMODUL7\bin\Debug\net6.0\TPMODUL7.runtimeconfig.json
+C:\Users\ASUS\source\repos\TPMODUL7\TPMODUL7\bin\Debug\net6.0\TPMODUL7.dll
+C:\Users\ASUS\source\repos\TPMODUL7\TPMODUL7\bin\Debug\net6.0\TPMODUL7.pdb
+C:\Users\ASUS\source\repos\TPMODUL7\TPMODUL7\obj\Debug\net6.0\TPMODUL7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\TPMODUL7\TPMODUL7\obj\Debug\net6.0\TPMODUL7.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\TPMODUL7\TPMODUL7\obj\Debug\net6.0\TPMODUL7.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\TPMODUL7\TPMODUL7\obj\Debug\net6.0\TPMODUL7.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\TPMODUL7\TPMODUL7\obj\Debug\net6.0\TPMODUL7.dll
+C:\Users\ASUS\source\repos\TPMODUL7\TPMODUL7\obj\Debug\net6.0\refint\TPMODUL7.dll
+C:\Users\ASUS\source\repos\TPMODUL7\TPMODUL7\obj\Debug\net6.0\TPMODUL7.pdb
+C:\Users\ASUS\source\repos\TPMODUL7\TPMODUL7\obj\Debug\net6.0\TPMODUL7.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\TPMODUL7\TPMODUL7\obj\Debug\net6.0\ref\TPMODUL7.dll
+C:\Users\ASUS\source\repos\TPMODUL7\TPMODUL7\bin\Debug\net6.0\TPMODULL_2_7.json
+C:\Users\ASUS\source\repos\TPMODUL7\TPMODUL7\bin\Debug\net6.0\TPMODULL_1_7.json

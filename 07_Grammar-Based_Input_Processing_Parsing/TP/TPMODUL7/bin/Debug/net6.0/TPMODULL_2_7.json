@@ -1,0 +1,16 @@
+﻿{
+  "mataKuliah": [
+    {
+      "kode": "RPL505",
+      "nama": "Arsitektur Perangkat Lunak"
+    },
+    {
+      "kode": "RPL504",
+      "nama": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "kode": "RPL503",
+      "nama": "Struktur Data"
+    }
+  ]
+}
